@@ -76,25 +76,25 @@ plot_acf(ARMA_2)
 plot_pacf(ARMA_2)
 ```
 
-OUTPUT:
-SIMULATED ARMA(1,1) PROCESS:
+## OUTPUT:
+## SIMULATED ARMA(1,1) PROCESS:
 ![Screenshot 2024-09-20 184558](https://github.com/user-attachments/assets/a474f2b4-1422-4ea1-9453-a094777b0476)
 
-Partial Autocorrelation:
+## Partial Autocorrelation:
 ![Screenshot 2024-09-20 184608](https://github.com/user-attachments/assets/b4e958a6-d164-4bc8-8ce6-ddedbab8c560)
 
-Autocorrelation:
+## Autocorrelation:
 ![Screenshot 2024-09-20 184620](https://github.com/user-attachments/assets/eddc8068-0893-4a1d-8e21-63a8fd92c943)
 
-SIMULATED ARMA(2,2) PROCESS:
+## SIMULATED ARMA(2,2) PROCESS:
 ![Screenshot 2024-09-20 184635](https://github.com/user-attachments/assets/dde96ba0-c276-4a89-ad19-343d851672d5)
 
-Partial Autocorrelation:
+## Partial Autocorrelation:
 ![Screenshot 2024-09-20 184705](https://github.com/user-attachments/assets/ddde3176-b5e5-45a5-8d6a-ded86a7ac575)
 
-Autocorrelation
+## Autocorrelation
 ![Screenshot 2024-09-20 184717](https://github.com/user-attachments/assets/cd264806-0902-408f-9cba-31468055cd8e)
 
 
-RESULT:
+## RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
